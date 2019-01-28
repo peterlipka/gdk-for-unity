@@ -19,7 +19,7 @@ The GDK is composed of three layers:
 * [Get started](https://docs.improbable.io/unity/alpha/content/get-started/get-started)
 * [Documentation](https://docs.improbable.io/unity/alpha/)
 
-* [Development roadmap](https://trello.com/b/29tMKyQC)
+* [Development roadmap](https://github.com/spatialos/gdk-for-unity/projects/1)
 * [Issue reporting](https://github.com/spatialos/UnityGDK/issues) ([Known issues](https://docs.improbable.io/unity/alpha/known-issues))
 
 * Community: [Discord](https://discord.gg/SCZTCYm) - [Forums](https://forums.improbable.io/latest?tags=unity-gdk) - [Mailing list](http://go.pardot.com/l/169082/2018-06-25/27mhsb)
@@ -49,7 +49,8 @@ Visit the **feedback** section in our [forums](https://forums.improbable.io) and
 Create an issue [in this repository](https://github.com/spatialos/UnityGDK/issues).
 
 ---
-* Version: [alpha](https://docs.improbable.io/reference/latest/shared/release-policy)
+* Version: [alpha](https://docs.improbabl
+e.io/reference/latest/shared/release-policy)
 * The SpatialOS GDK for Unity repository: [github.com/spatialos/gdk-for-unity](https://github.com/spatialos/gdk-for-unity)
 * Your access to and use of the Unity Engine is governed by the Unity Engine End User License Agreement. Please ensure that you have agreed to those terms before you access or use the Unity Engine.
 
